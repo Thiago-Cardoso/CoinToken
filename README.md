@@ -10,7 +10,7 @@
 ![](https://github.com/Thiago-Cardoso/CoinToken/blob/master/img/transaction-metamask.png)
 
 ## Status transaction
-![](https://github.com/Thiago-Cardoso/CoinToken/blob/master/img/transaction-metamask.png)
+![](https://github.com/Thiago-Cardoso/CoinToken/blob/master/img/status.png)
 
 
 ## Stack the Project
