@@ -1,6 +1,7 @@
+## CoinToken
 <p  align="center">Cryptocurrency in Ethereum Neetwork</p>
 
-## Remix IDE - CoinToken, create a block transaction in blockchain
+## Remix IDE - create a block transaction in a blockchain
 ![](https://github.com/Thiago-Cardoso/CoinToken/blob/master/img/deploy.png)
 
 ## Hardhat Server
