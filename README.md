@@ -40,7 +40,7 @@ npm install --save-dev hardhat
 
 Started run the comand
 ```bash
-npx hardhat 
+npx hardhat node
 ```
 HTTP and WebSocket JSON-RPC server at  [http://127.0.0.1:8545/](http://127.0.0.1:8545/) with your terminal.
 
